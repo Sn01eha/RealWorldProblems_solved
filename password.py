@@ -1,3 +1,5 @@
+# Random password generator
+
 import random
 import string
 lowercase_char = string.ascii_lowercase
